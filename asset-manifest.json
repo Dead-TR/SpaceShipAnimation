@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.bbf4b8ce.css",
-    "main.js": "/static/js/main.4b2605b7.js",
-    "static/media/bigBG.webp": "/static/media/bigBG.43208388af384d229179.webp",
-    "static/media/explosion.mp4": "/static/media/explosion.9d90e5ef028838499bdf.mp4",
-    "static/media/ship.webp": "/static/media/ship.b9c1837056d8f8a1e18f.webp",
-    "static/media/meteor_2.webp": "/static/media/meteor_2.d7f1f281e4cd9f7d91fb.webp",
-    "static/media/planet2.webp": "/static/media/planet2.30993d531d10ba85ce32.webp",
-    "static/media/planet4.webp": "/static/media/planet4.fe5d282334318b090e66.webp",
-    "static/media/planet6.webp": "/static/media/planet6.4c1f5ece4ecbe00cd6e6.webp",
-    "static/media/mStart.webp": "/static/media/mStart.ded99d173062a8a38060.webp",
-    "static/media/meteor_0.webp": "/static/media/meteor_0.269a93a957a329f21155.webp",
-    "static/media/meteor_1.webp": "/static/media/meteor_1.94c8acd27bc28c2e7625.webp",
-    "static/media/asteroid2.webp": "/static/media/asteroid2.02fd6b0d8a0b109cb0a9.webp",
-    "static/media/asteroid1.webp": "/static/media/asteroid1.3a346d8f45ca011e8253.webp",
-    "static/media/asteroid4.webp": "/static/media/asteroid4.a7f610398e8b2e4bcf77.webp",
-    "static/media/asteroid.webp": "/static/media/asteroid.1717c872550c85b24cc0.webp",
-    "static/media/asteroid5.webp": "/static/media/asteroid5.c6c34d187e2d6cfd07a3.webp",
-    "index.html": "/index.html",
-    "main.bbf4b8ce.css.map": "/static/css/main.bbf4b8ce.css.map",
-    "main.4b2605b7.js.map": "/static/js/main.4b2605b7.js.map"
+    "main.css": "./static/css/main.bbf4b8ce.css",
+    "main.js": "./static/js/main.0d802deb.js",
+    "static/media/bigBG.webp": "./static/media/bigBG.43208388af384d229179.webp",
+    "static/media/explosion.mp4": "./static/media/explosion.9d90e5ef028838499bdf.mp4",
+    "static/media/ship.webp": "./static/media/ship.b9c1837056d8f8a1e18f.webp",
+    "static/media/meteor_2.webp": "./static/media/meteor_2.d7f1f281e4cd9f7d91fb.webp",
+    "static/media/planet2.webp": "./static/media/planet2.30993d531d10ba85ce32.webp",
+    "static/media/planet4.webp": "./static/media/planet4.fe5d282334318b090e66.webp",
+    "static/media/planet6.webp": "./static/media/planet6.4c1f5ece4ecbe00cd6e6.webp",
+    "static/media/mStart.webp": "./static/media/mStart.ded99d173062a8a38060.webp",
+    "static/media/meteor_0.webp": "./static/media/meteor_0.269a93a957a329f21155.webp",
+    "static/media/meteor_1.webp": "./static/media/meteor_1.94c8acd27bc28c2e7625.webp",
+    "static/media/asteroid2.webp": "./static/media/asteroid2.02fd6b0d8a0b109cb0a9.webp",
+    "static/media/asteroid1.webp": "./static/media/asteroid1.3a346d8f45ca011e8253.webp",
+    "static/media/asteroid4.webp": "./static/media/asteroid4.a7f610398e8b2e4bcf77.webp",
+    "static/media/asteroid.webp": "./static/media/asteroid.1717c872550c85b24cc0.webp",
+    "static/media/asteroid5.webp": "./static/media/asteroid5.c6c34d187e2d6cfd07a3.webp",
+    "index.html": "./index.html",
+    "main.bbf4b8ce.css.map": "./static/css/main.bbf4b8ce.css.map",
+    "main.0d802deb.js.map": "./static/js/main.0d802deb.js.map"
   },
   "entrypoints": [
     "static/css/main.bbf4b8ce.css",
-    "static/js/main.4b2605b7.js"
+    "static/js/main.0d802deb.js"
   ]
 }
