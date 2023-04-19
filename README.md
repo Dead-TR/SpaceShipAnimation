@@ -1,4 +1,4 @@
-[screen](./screen.png)
+![screen](./screen.png)
 
 # Limbo Casino Game Animation
 The Limbo Casino game utilizes animation to enhance the gaming experience. The animation is a preliminary version and not the final product, as the final version cannot be shared due to legal restrictions.
