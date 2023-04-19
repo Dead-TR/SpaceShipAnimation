@@ -5,6 +5,8 @@ The Limbo Casino game utilizes animation to enhance the gaming experience. The a
 The animation features a spaceship taking off and exploding in space. Planets and meteors move in the background with a parallax effect, creating an immersive environment for players.
 The animation adds an exciting element to the Limbo Casino game, making it an engaging and visually appealing experience for players.
 
+# [Preview](https://dead-tr.github.io/SpaceShipAnimation/)
+
 # Prerequisites
 Before you begin, make sure you have the following installed on your system:
 
