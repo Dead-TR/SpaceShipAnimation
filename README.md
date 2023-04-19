@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+[screen](./screen.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Limbo Casino Game Animation
+The Limbo Casino game utilizes animation to enhance the gaming experience. The animation is a preliminary version and not the final product, as the final version cannot be shared due to legal restrictions.
+The animation features a spaceship taking off and exploding in space. Planets and meteors move in the background with a parallax effect, creating an immersive environment for players.
+The animation adds an exciting element to the Limbo Casino game, making it an engaging and visually appealing experience for players.
 
-## Available Scripts
+# Prerequisites
+Before you begin, make sure you have the following installed on your system:
 
-In the project directory, you can run:
+- Node.js (version 14 or higher)
+- npm (version 6 or higher)
+You can check if you have Node.js and npm installed by opening a terminal (Linux/Mac) or command prompt (Windows) and running the following commands:
 
-### `npm start`
+```node -v```
+```npm -v```
+If you see version numbers displayed, it means Node.js and npm are installed. If not, you can download them from the official Node.js website.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Installing dependencies
+To install the required dependencies for the project, navigate to the root directory of the project in a terminal/command prompt and run the following command:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```npm install```
+This will install all the necessary packages and their dependencies listed in the package.json file.
 
-### `npm test`
+# Running the app
+Once the dependencies have been installed, you can start the application by running the following command:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```npm start```
+This will start a development server and open your app in a web browser at http://localhost:3000.
 
-### `npm run build`
+# Running on Linux
+To run the application on Linux, follow the steps above to install dependencies and start the app. Make sure you have a terminal open and navigate to the root directory of the project before running the commands.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Running on Windows
+To run the application on Windows, follow the steps above to install dependencies and start the app. Make sure you have a command prompt open and navigate to the root directory of the project before running the commands.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+That's it! Your React app should now be up and running. If you encounter any issues, please check the console output for error messages or consult the project's documentation.
