@@ -37,3 +37,9 @@ To run the application on Linux, follow the steps above to install dependencies 
 To run the application on Windows, follow the steps above to install dependencies and start the app. Make sure you have a command prompt open and navigate to the root directory of the project before running the commands.
 
 That's it! Your React app should now be up and running. If you encounter any issues, please check the console output for error messages or consult the project's documentation.
+
+# Technologies:
+- React
+- PixiJS
+- TypeScript
+- Sass
